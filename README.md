@@ -1,2 +1,2 @@
-# belajar-springboot
-Project ini dibuat menggunakan framework springboot dengan bahasa pemograman Java.
+# learn-springboot
+This project was created using the springboot framework with the Java programming language.
